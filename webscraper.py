@@ -11,6 +11,7 @@ from bs4 import BeautifulSoup
 def scrape():
     # Modify with appropriate searches
     search_list = ['Elephant kill', 'Tiger kill', 'Elephant death','Tiger death']
+    countries = ['Indonesia', 'Sri-lanka', 'Sri lanka', 'India', 'Malaysia', 'Thailand']
 
     sep = '.'
     
