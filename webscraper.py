@@ -35,7 +35,7 @@ def scrape():
         
         while(url):
             # Requesting page and result
-            header = {'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:64.0) Gecko/20100101 Firefox/64.0'}
+            header = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36'}
             req = urllib.request.Request(url, headers=header)
             response = urllib.request.urlopen(req)
             page = response.read()
