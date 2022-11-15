@@ -1,10 +1,7 @@
 # Worklearn
 Todo:
-
-* Ask Satish about google credits
-* Find out google output from soup
-* Do data exploration on the current elephant/tiger dataset to find out about the best search words
-* Fix Line Break \r\n in Articles column
+* Webscraper needs to identify different sections of the Article(i.e. each source has a different layout for the article)
+* Continue Google Vertex setup
 
 Task 1: Find articles that are similar, use a web crawler and if the article is similar, input that article into task 2
 
