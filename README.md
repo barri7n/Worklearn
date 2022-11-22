@@ -1,5 +1,6 @@
 # Worklearn
 Todo:
+* Explore OpenAI summarizer
 * Webscraper needs to identify different sections of the Article(i.e. each source has a different layout for the article)
 * Continue Google Vertex setup
 
